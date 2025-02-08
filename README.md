@@ -8,7 +8,7 @@ The company wants to invest in an AI PC. The cost is TBD. There are 500 +/- stud
 
 The PC must be capable of running AI tasks. 
 
-# Assumpations
+# Assumptions
 
 We are making an assumption that the open source LLM's will run on hardware of +/- $18,000.00 with enough bandwidth to service more than 1000 students should their be continued growth/ interest in the program. 
 
